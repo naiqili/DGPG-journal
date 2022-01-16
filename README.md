@@ -1,4 +1,4 @@
-# Graph Signal Analysis with Deep Gaussian Process Models
+# Node-level Graph Regression with Deep Gaussian Process Models
 
 
 ## Prerequests
